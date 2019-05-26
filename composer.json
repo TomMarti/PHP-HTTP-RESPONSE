@@ -1,0 +1,20 @@
+{
+    "name": "tommmarti/php-http-response",
+    "description": "A simple library to facilitate http response.",
+    "require": {
+        "symfony/yaml": "^4.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom Marti",
+            "email": "martitom.ch@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "tommarti\\" : "src"
+        }
+    }
+}
+
