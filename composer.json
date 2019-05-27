@@ -1,6 +1,7 @@
 {
     "name": "tommmarti/php-http-response",
     "description": "A simple library to facilitate http response.",
+    "minimum-stability": "stable",
     "require": {
         "symfony/yaml": "^4.2"
     },
